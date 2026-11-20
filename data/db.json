@@ -1,0 +1,553 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Aarav",
+      "age": 20,
+      "city": "Bangalore",
+      "bio": "Always looking for new experiences and good conversations.",
+      "interests": [
+        "Music",
+        "Travel",
+        "Photography"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=1",
+      "likedByUser": false
+    },
+    {
+      "id": 2,
+      "name": "Ananya",
+      "age": 21,
+      "city": "Delhi",
+      "bio": "Coffee lover, music enthusiast and weekend explorer.",
+      "interests": [
+        "Movies",
+        "Reading",
+        "Coffee"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=2",
+      "likedByUser": false
+    },
+    {
+      "id": 3,
+      "name": "Ishaan",
+      "age": 22,
+      "city": "Mumbai",
+      "bio": "Building my dreams one day at a time.",
+      "interests": [
+        "Fitness",
+        "Technology",
+        "Food"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=3",
+      "likedByUser": true
+    },
+    {
+      "id": 4,
+      "name": "Aditi",
+      "age": 23,
+      "city": "Pune",
+      "bio": "Life is better when shared with good people.",
+      "interests": [
+        "Art",
+        "Fashion",
+        "Travel"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=4",
+      "likedByUser": false
+    },
+    {
+      "id": 5,
+      "name": "Kabir",
+      "age": 24,
+      "city": "Hyderabad",
+      "bio": "Here to meet genuine people and make connections.",
+      "interests": [
+        "Gaming",
+        "Music",
+        "Sports"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=5",
+      "likedByUser": false
+    },
+    {
+      "id": 6,
+      "name": "Meera",
+      "age": 25,
+      "city": "Jamshedpur",
+      "bio": "Always looking for new experiences and good conversations.",
+      "interests": [
+        "Music",
+        "Travel",
+        "Photography"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=6",
+      "likedByUser": false
+    },
+    {
+      "id": 7,
+      "name": "Rohan",
+      "age": 26,
+      "city": "Kolkata",
+      "bio": "Coffee lover, music enthusiast and weekend explorer.",
+      "interests": [
+        "Movies",
+        "Reading",
+        "Coffee"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=7",
+      "likedByUser": false
+    },
+    {
+      "id": 8,
+      "name": "Sana",
+      "age": 20,
+      "city": "Chennai",
+      "bio": "Building my dreams one day at a time.",
+      "interests": [
+        "Fitness",
+        "Technology",
+        "Food"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=8",
+      "likedByUser": true
+    },
+    {
+      "id": 9,
+      "name": "Arjun",
+      "age": 21,
+      "city": "Gurgaon",
+      "bio": "Life is better when shared with good people.",
+      "interests": [
+        "Art",
+        "Fashion",
+        "Travel"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=9",
+      "likedByUser": false
+    },
+    {
+      "id": 10,
+      "name": "Kiara",
+      "age": 22,
+      "city": "Jaipur",
+      "bio": "Here to meet genuine people and make connections.",
+      "interests": [
+        "Gaming",
+        "Music",
+        "Sports"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=10",
+      "likedByUser": false
+    },
+    {
+      "id": 11,
+      "name": "Vivaan",
+      "age": 23,
+      "city": "Bangalore",
+      "bio": "Always looking for new experiences and good conversations.",
+      "interests": [
+        "Music",
+        "Travel",
+        "Photography"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=11",
+      "likedByUser": false
+    },
+    {
+      "id": 12,
+      "name": "Zoya",
+      "age": 24,
+      "city": "Delhi",
+      "bio": "Coffee lover, music enthusiast and weekend explorer.",
+      "interests": [
+        "Movies",
+        "Reading",
+        "Coffee"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=12",
+      "likedByUser": false
+    },
+    {
+      "id": 13,
+      "name": "Reyansh",
+      "age": 25,
+      "city": "Mumbai",
+      "bio": "Building my dreams one day at a time.",
+      "interests": [
+        "Fitness",
+        "Technology",
+        "Food"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=13",
+      "likedByUser": false
+    },
+    {
+      "id": 14,
+      "name": "Diya",
+      "age": 26,
+      "city": "Pune",
+      "bio": "Life is better when shared with good people.",
+      "interests": [
+        "Art",
+        "Fashion",
+        "Travel"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=14",
+      "likedByUser": true
+    },
+    {
+      "id": 15,
+      "name": "Advik",
+      "age": 20,
+      "city": "Hyderabad",
+      "bio": "Here to meet genuine people and make connections.",
+      "interests": [
+        "Gaming",
+        "Music",
+        "Sports"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=15",
+      "likedByUser": false
+    },
+    {
+      "id": 16,
+      "name": "Myra",
+      "age": 21,
+      "city": "Jamshedpur",
+      "bio": "Always looking for new experiences and good conversations.",
+      "interests": [
+        "Music",
+        "Travel",
+        "Photography"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=16",
+      "likedByUser": false
+    },
+    {
+      "id": 17,
+      "name": "Ayaan",
+      "age": 22,
+      "city": "Kolkata",
+      "bio": "Coffee lover, music enthusiast and weekend explorer.",
+      "interests": [
+        "Movies",
+        "Reading",
+        "Coffee"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=17",
+      "likedByUser": false
+    },
+    {
+      "id": 18,
+      "name": "Ira",
+      "age": 23,
+      "city": "Chennai",
+      "bio": "Building my dreams one day at a time.",
+      "interests": [
+        "Fitness",
+        "Technology",
+        "Food"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=18",
+      "likedByUser": false
+    },
+    {
+      "id": 19,
+      "name": "Dev",
+      "age": 24,
+      "city": "Gurgaon",
+      "bio": "Life is better when shared with good people.",
+      "interests": [
+        "Art",
+        "Fashion",
+        "Travel"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=19",
+      "likedByUser": false
+    },
+    {
+      "id": 20,
+      "name": "Tara",
+      "age": 25,
+      "city": "Jaipur",
+      "bio": "Here to meet genuine people and make connections.",
+      "interests": [
+        "Gaming",
+        "Music",
+        "Sports"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=20",
+      "likedByUser": false
+    },
+    {
+      "id": 21,
+      "name": "Krish",
+      "age": 26,
+      "city": "Bangalore",
+      "bio": "Always looking for new experiences and good conversations.",
+      "interests": [
+        "Music",
+        "Travel",
+        "Photography"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=21",
+      "likedByUser": true
+    },
+    {
+      "id": 22,
+      "name": "Naina",
+      "age": 20,
+      "city": "Delhi",
+      "bio": "Coffee lover, music enthusiast and weekend explorer.",
+      "interests": [
+        "Movies",
+        "Reading",
+        "Coffee"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=22",
+      "likedByUser": false
+    },
+    {
+      "id": 23,
+      "name": "Yash",
+      "age": 21,
+      "city": "Mumbai",
+      "bio": "Building my dreams one day at a time.",
+      "interests": [
+        "Fitness",
+        "Technology",
+        "Food"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=23",
+      "likedByUser": false
+    },
+    {
+      "id": 24,
+      "name": "Alisha",
+      "age": 22,
+      "city": "Pune",
+      "bio": "Life is better when shared with good people.",
+      "interests": [
+        "Art",
+        "Fashion",
+        "Travel"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=24",
+      "likedByUser": false
+    },
+    {
+      "id": 25,
+      "name": "Rudra",
+      "age": 23,
+      "city": "Hyderabad",
+      "bio": "Here to meet genuine people and make connections.",
+      "interests": [
+        "Gaming",
+        "Music",
+        "Sports"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=25",
+      "likedByUser": false
+    },
+    {
+      "id": 26,
+      "name": "Sara",
+      "age": 24,
+      "city": "Jamshedpur",
+      "bio": "Always looking for new experiences and good conversations.",
+      "interests": [
+        "Music",
+        "Travel",
+        "Photography"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=26",
+      "likedByUser": false
+    },
+    {
+      "id": 27,
+      "name": "Aditya",
+      "age": 25,
+      "city": "Kolkata",
+      "bio": "Coffee lover, music enthusiast and weekend explorer.",
+      "interests": [
+        "Movies",
+        "Reading",
+        "Coffee"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=27",
+      "likedByUser": true
+    },
+    {
+      "id": 28,
+      "name": "Riya",
+      "age": 26,
+      "city": "Chennai",
+      "bio": "Building my dreams one day at a time.",
+      "interests": [
+        "Fitness",
+        "Technology",
+        "Food"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=28",
+      "likedByUser": false
+    },
+    {
+      "id": 29,
+      "name": "Neil",
+      "age": 20,
+      "city": "Gurgaon",
+      "bio": "Life is better when shared with good people.",
+      "interests": [
+        "Art",
+        "Fashion",
+        "Travel"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=29",
+      "likedByUser": false
+    },
+    {
+      "id": 30,
+      "name": "Avni",
+      "age": 21,
+      "city": "Jaipur",
+      "bio": "Here to meet genuine people and make connections.",
+      "interests": [
+        "Gaming",
+        "Music",
+        "Sports"
+      ],
+      "photo": "https://i.pravatar.cc/600?img=30",
+      "likedByUser": false
+    }
+  ],
+  "swipes": [
+    {
+      "profileId": 1,
+      "action": "like"
+    },
+    {
+      "profileId": 2,
+      "action": "like"
+    },
+    {
+      "profileId": 3,
+      "action": "like"
+    },
+    {
+      "profileId": 4,
+      "action": "like"
+    },
+    {
+      "profileId": 5,
+      "action": "like"
+    },
+    {
+      "profileId": 6,
+      "action": "like"
+    },
+    {
+      "profileId": 7,
+      "action": "like"
+    },
+    {
+      "profileId": 8,
+      "action": "like"
+    },
+    {
+      "profileId": 9,
+      "action": "like"
+    },
+    {
+      "profileId": 10,
+      "action": "like"
+    },
+    {
+      "profileId": 11,
+      "action": "like"
+    },
+    {
+      "profileId": 12,
+      "action": "like"
+    },
+    {
+      "profileId": 13,
+      "action": "like"
+    },
+    {
+      "profileId": 14,
+      "action": "like"
+    },
+    {
+      "profileId": 15,
+      "action": "like"
+    },
+    {
+      "profileId": 16,
+      "action": "pass"
+    },
+    {
+      "profileId": 17,
+      "action": "pass"
+    },
+    {
+      "profileId": 18,
+      "action": "like"
+    },
+    {
+      "profileId": 19,
+      "action": "like"
+    },
+    {
+      "profileId": 20,
+      "action": "like"
+    },
+    {
+      "profileId": 21,
+      "action": "like"
+    },
+    {
+      "profileId": 22,
+      "action": "pass"
+    },
+    {
+      "profileId": 23,
+      "action": "like"
+    },
+    {
+      "profileId": 24,
+      "action": "like"
+    },
+    {
+      "profileId": 25,
+      "action": "like"
+    },
+    {
+      "profileId": 26,
+      "action": "like"
+    },
+    {
+      "profileId": 27,
+      "action": "like"
+    },
+    {
+      "profileId": 28,
+      "action": "like"
+    },
+    {
+      "profileId": 29,
+      "action": "like"
+    },
+    {
+      "profileId": 30,
+      "action": "like"
+    }
+  ],
+  "matches": [
+    3,
+    8,
+    14,
+    21,
+    27
+  ]
+}
